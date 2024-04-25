@@ -11,4 +11,4 @@ With the exponential growth and rapid development in the fields of deep learning
 - [Girish Rajani - @girishrajani](https://github.com/girishrajani)
 - [Khushi Ruparel - @khushi-14](https://github.com/khushi-14)
 
-[Acces the paper here: https://ieeexplore.ieee.org/document/10392702](https://ieeexplore.ieee.org/document/10392702)
+[Access the paper here: https://ieeexplore.ieee.org/document/10392702](https://ieeexplore.ieee.org/document/10392702)
